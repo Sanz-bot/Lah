@@ -99,11 +99,11 @@ Cara Tambah XP:
 ➥ ${_p}mutechat group
 
 ═〘 IKLAN 〙 ═
-➥ Instagram: intagram.com/akbarsan3
-➥ Github: https://github.com/Akbarsans/miray-chan
+➥ Instagram: intagram.com/iksanzz_nation
+➥ Github: https://github.com/Sanz-bot/Lah
 
 ═〘 Info Bot 〙 ═
-➥ Name : Miray-chan
+➥ Name : Bot sanz
 ➥ Coded using *Nano* on Android \\w Termux
 ➥ 
 
