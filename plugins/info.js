@@ -1,19 +1,19 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 〘 INFO BOT 〙
-Dibuat dengan bahasa javascript via NodeJs
+Dibuat dengan bahasa javascript via Node.Js karya SANZ ID
 
-➥ Github: https://github.com/Akbarsans/Miray-chan
-➥ Instagram: instagram.com/akbarsan3
-➥ YouTube: aa akbar
+➥ Github: https://github.com/Sanz-bot/Lah
+➥ Instagram: instagram.com/iksanzz-nation
+➥ YouTube: MF GAMING
 
 〘 Thanks To 〙 
 ➥ Allah SWT
 
 〘 DONASI 〙 
-➥ pulsa : 0838-7733-5693
-➥ dana: 0858-9021-6240
-➥ ovo: 0858-9021-6240
+➥ pulsa : 0882-1578-8716
+➥ gopay : 0857-7185-3430
+➥ Dana : 0857-7185-3430
 
 
 〘 Miray-chan 〙 
