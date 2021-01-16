@@ -10,9 +10,9 @@ Ketik di *[TERMUX]*
 4) $pkg install nodejs
 
 Untuk Githubnya..
-5) $git clone https://github.com/Akbarsans/Miray-chan
+5) $git clone https://github.com/Sanz-bot/Lah
 6) $ls
-7) $cd Miray-chan
+7) $cd Lah
 
 yang *terakhirr* ..
 Penginstalannya cuy :)
